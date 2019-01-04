@@ -1,0 +1,7 @@
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Миша\source\repos\Calculator(На +)0.1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
